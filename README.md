@@ -17,4 +17,9 @@ CustomTkinter for the graphical user interface
 Sounddevice for audio recording and microphone input
 
 
+# Requirements
+pip install sounddevice numpy scipy customtkinter
+
+
+
 
